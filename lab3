@@ -1,0 +1,24 @@
+W wyniku przeprowadzonych analiz potrzeb użytkowników oraz badań nad dopasowaniem kompetencji zawodowych, 
+firma Student & Student opracowała innowacyjne rozwiązanie wspierające osoby posiadające umiejętności i doświadczenie, 
+ale niepotrafiące określić, w jakich zawodach mogą je najlepiej wykorzystać. Zauważono, że brak świadomości własnych możliwości 
+na rynku pracy prowadzi do niedopasowania zawodowego, a tym samym do niewykorzystanego potencjału pracowników.
+
+W odpowiedzi na ten problem, firma opracowała system dopasowujący oferty pracy na podstawie odpowiedzi udzielanych przez użytkownika. 
+Dzięki zastosowaniu zaawansowanych algorytmów analizy danych i sztucznej inteligencji, 
+system potrafi precyzyjnie wskazać zawody, w których użytkownik może najlepiej wykorzystać swoje kompetencje. 
+Wstępne testy wykazały, że trafność dopasowania ofert pracy do profilu użytkownika wzrosła o 60% w porównaniu z tradycyjnymi metodami wyszukiwania ogłoszeń. 
+Rozwiązanie to może znaleźć szerokie zastosowanie zarówno w doradztwie zawodowym, jak i w procesach rekrutacyjnych, zwiększając efektywność zatrudnienia na rynku pracy.
+
+
+______________
+
+Przeprowadzono wstępną analizę koncepcji systemu dopasowującego oferty pracy na podstawie kompetencji użytkownika. 
+Ustalono, że technologia może być rozwijana jako aplikacja webowa oraz mobilna, dostępna na popularnych systemach operacyjnych, takich jak Android, iOS oraz w wersji przeglądarkowej na Windows i Linux.
+
+Optymalnym rozwiązaniem jest stworzenie interfejsu użytkownika w formie interaktywnego kwestionariusza, który na podstawie odpowiedzi analizuje profil 
+kompetencyjny użytkownika (uwzględniając m.in. umiejętności, doświadczenie zawodowe, preferencje oraz cele rozwojowe). System wykorzystuje algorytmy dopasowania oparte
+na sztucznej inteligencji (AI), które przetwarzają dane i rekomendują najlepiej dopasowane oferty pracy oraz potencjalne ścieżki kariery.
+
+Zauważono, że technologia ta, po odpowiednim rozwinięciu, może znaleźć szerokie zastosowanie w sektorach takich jak: publiczne urzędy pracy,
+platformy rekrutacyjne, działy HR dużych firm, a także w instytucjach edukacyjnych oferujących doradztwo zawodowe. W przyszłości możliwe jest również zintegrowanie
+systemu z bazami danych ogłoszeń o pracę oraz systemami ATS (Applicant Tracking System), co pozwoli na automatyczne kierowanie kandydatów do odpowiednich ofert.
